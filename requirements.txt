@@ -24,3 +24,5 @@ reportlab
 # Utilities
 requests
 python-multipart
+
+datasets
